@@ -472,9 +472,7 @@ body {
   text-align: justify;
 }
 
-.max-230 {
-  max-width: 230px;
-}
+.max-230 {max-width: 160px;}
 
 footer .inner {
   background-color: #e4ecf1;
